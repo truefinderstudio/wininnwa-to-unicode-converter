@@ -1,8 +1,8 @@
 /* Define the input font */
 @font-face {
     font-family: 'InputFont';
-    src: url('https://wininnwa-to-unicode.truefinderstudio.com/fonts/.woff2') format('woff2'),
-         url('https://wininnwa-to-unicode.truefinderstudio.com/fonts/.woff') format('woff');
+    src: url('https://wininnwa-to-unicode.truefinderstudio.com/fonts/WinInnwa.woff2') format('woff2'),
+         url('https://wininnwa-to-unicode.truefinderstudio.com/fonts/WinInnwa.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
